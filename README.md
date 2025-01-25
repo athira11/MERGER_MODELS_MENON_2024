@@ -5,5 +5,7 @@ These are all models from the table of Menon et al. 2024 (ApJ Letters), that are
 Every binary considered should have 4 .data files:
 
 2 C-dep models: In the format 'M1_M2_Msun_fc_value.data', where M1 = ZAMS mass of primary, M2 = ZAMS mass of secondary, fc = fraction of He-core dredged up during the merging = 0 or >0 
+
 1 Primary model: In the format 'M1_Msun.data', where M1 = ZAMS mass of primary
+
 1 Secondary model: In the format 'M2_Msun.data', where M2 = ZAMS mass of secondary
